@@ -51,6 +51,7 @@ Recommended using Homestead
 
     cd laravelBlog
     composer install
+    npm install / yarn
     
 ### 3. Database stuff
 
